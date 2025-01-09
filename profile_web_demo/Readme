@@ -1,0 +1,29 @@
+Particle Animation with Interactive Background
+
+Project Description
+
+This project is an interactive particle animation created using the HTML5 Canvas API and JavaScript. The animation dynamically responds to mouse movements and clicks, creating stunning visual effects. It serves as a creative and visually engaging background for showcasing a portfolio or any modern web application.
+
+Features
+
+Dynamic Particle Animation: Particles explode and disperse based on user interaction (mouse move and clicks).
+Customizable Parameters: Easy-to-adjust particle sizes, colors, velocities, and explosion density.
+Responsive Design: Adapts seamlessly to different screen sizes.
+Overlay Content: Includes a centered text overlay to introduce the project or application.
+Technologies Used
+HTML5: Structure of the webpage and integration of the canvas element.
+CSS3: Styling for the overlay content and layout adjustments.
+JavaScript: Logic for particle generation, animation, and interactivity.
+
+How to Use
+Clone or download the repository.
+Open index.html in your browser to view the animation.
+Customize particle behavior in the script.js file to suit your needs:
+Adjust the number of particles, their sizes, colors, and lifespan.
+Setup
+No additional dependencies are required for this project. All code is written in plain HTML, CSS, and JavaScript, making it lightweight and easy to deploy.
+
+Future Improvements
+Add more interactive features like particle trails or gravity effects.
+Implement touch-screen compatibility for mobile devices.
+Enhance the design with gradients or background images.
