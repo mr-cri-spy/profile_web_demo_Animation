@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    overflow: hidden;
+}
+
+canvas {
+    display: block;
+    background-color: blanchedalmond;
+}
+
+#content {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    color: rgb(65, 50, 10);
+    text-shadow: 2px 2px 5px red;
+    z-index: 1;
+}
+
+#content h1 {
+    font-size: 4rem;
+    margin: 0;
+}
+
+#content p {
+    font-size: 1.5rem;
+    margin: 10px 0;
+}
