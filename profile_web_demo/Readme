@@ -4,7 +4,7 @@ Project Description
 
 This project is an interactive particle animation created using the HTML5 Canvas API and JavaScript. The animation dynamically responds to mouse movements and clicks, creating stunning visual effects. It serves as a creative and visually engaging background for showcasing a portfolio or any modern web application.
 
-Features
+Features : 
 
 Dynamic Particle Animation: Particles explode and disperse based on user interaction (mouse move and clicks).
 Customizable Parameters: Easy-to-adjust particle sizes, colors, velocities, and explosion density.
