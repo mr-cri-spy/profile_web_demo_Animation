@@ -21,7 +21,7 @@ class Particle {
     update() {
         this.x += this.velocityX;
         this.y += this.velocityY;
-        this.size *= 0.97; // Gradually shrink particles
+        this.size *= 0.97;  // Gradually shrink particles
         this.life -= 1;
     }
 
